@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Bitcoin(BTC)",
+      "symbol": "bitcoin"
+    },
+    {
+      "name": "Ethereum(ETH)",
+      "symbol": "ethereum"
+    },
+    {
+        "name": "Solana(SOL)",
+        "symbol": "solana"
+      },
+    {
+      "name": "Ripple(XRP)",
+      "symbol": "ripple"
+    },
+    {
+      "name": "Litecoin(LTC)",
+      "symbol": "litecoin"
+    },
+    {
+      "name": "Cardano(ADA)",
+      "symbol": "cardano"
+    },
+    {
+      "name": "Dogecoin(DOGE)",
+      "symbol": "dogecoin"
+    },
+    {
+      "name": "Chainlink(LINK)",
+      "symbol": "chainlink"
+    },
+    {
+      "name": "Polkadot(DOT)",
+      "symbol": "polkadot"
+    },
+    {
+      "name": "Monero(XMR)",
+      "symbol": "monero"
+    }
+  ]

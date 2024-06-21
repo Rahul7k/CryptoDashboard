@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card.custom-class {
+  background-color: #038387;
+  color:white;
+  font-weight: bold;
+}

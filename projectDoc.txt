@@ -1,0 +1,17 @@
+Install react App :
+    npx create-react-app crypto-dashboard
+
+Install ApexChart for react
+    npm install --save react-apexcharts apexcharts
+
+https://docs.coingecko.com/reference/introduction
+    Label: cryptotrackerapp
+    API Key: CG-AFwxH9Wf5oUxLhhpRL2hnK1C
+
+https://api.coingecko.com/api/v3/coins/{id}/market_chart
+
+https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr
+
+
+props (or, property) is a value which we can send across the components
+and we can change their state in that file
